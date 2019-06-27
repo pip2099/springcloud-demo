@@ -24,6 +24,7 @@ public class HelloService {
     }
 
     public  String helloFallback(){
+        //调用服务失败时的处理
         return "error";
     }
 }
