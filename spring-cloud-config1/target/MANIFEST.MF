@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Version: 2.0.1.RELEASE
+Built-By: Administrator
+Implementation-Vendor-Id: com.lanhusoft
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_101
+Main-Class: ${start-class}
+

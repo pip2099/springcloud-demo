@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="IdProvider" IDEtalkID="AC160819D74976FCE471707B2CB9BF22" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-clound-config2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-consumber/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-stream-hello/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectKey">
+    <option name="state" value="project://63537948-39a4-48a0-9c97-34259a0fa913" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

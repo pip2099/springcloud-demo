@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-stream-hello" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-client/spring-cloud-config-client.iml" filepath="$PROJECT_DIR$/spring-cloud-config-client/spring-cloud-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config1/spring-cloud-config1.iml" filepath="$PROJECT_DIR$/spring-cloud-config1/spring-cloud-config1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consumer/spring-cloud-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-consumer/spring-cloud-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-demo.iml" filepath="$PROJECT_DIR$/spring-cloud-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka1/spring-cloud-eureka1.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka1/spring-cloud-eureka1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka2/spring-cloud-eureka2.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka2/spring-cloud-eureka2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-provider/spring-cloud-provider.iml" filepath="$PROJECT_DIR$/spring-cloud-provider/spring-cloud-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-stream-hello/spring-cloud-stream-hello.iml" filepath="$PROJECT_DIR$/spring-cloud-stream-hello/spring-cloud-stream-hello.iml" />
+    </modules>
+  </component>
+</project>

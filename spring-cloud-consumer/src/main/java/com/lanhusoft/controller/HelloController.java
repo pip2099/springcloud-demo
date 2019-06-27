@@ -1,0 +1,28 @@
+package com.lanhusoft.controller;
+
+import com.lanhusoft.services.HelloService;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.client.RestTemplate;
+
+/**
+ * Copyright@www.lanhusoft.com.
+ * Author:lanhusoft
+ * Date:2018-08-21
+ * Description:
+ */
+@RestController
+public class HelloController {
+
+    //private final Logger logger=Logger.getLogger(getClass());
+
+    @Autowired
+    HelloService helloService;
+
+    @RequestMapping(value="/hello")
+    public String hello(){
+        return  helloService.hello();
+    }
+
+}
