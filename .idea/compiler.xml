@@ -27,9 +27,9 @@
         <module name="spring-cloud-config1" />
         <module name="spring-cloud-consumber" />
         <module name="spring-cloud-consumer" />
-        <module name="spring-cloud-demo" />
         <module name="spring-cloud-eureka1" />
         <module name="spring-cloud-eureka2" />
+        <module name="spring-cloud-hystrix" />
         <module name="spring-cloud-provider" />
         <module name="spring-cloud-stream-hello" />
         <module name="spring-clound-config2" />
@@ -43,6 +43,7 @@
       <module name="spring-cloud-demo" target="1.8" />
       <module name="spring-cloud-eureka1" target="1.8" />
       <module name="spring-cloud-eureka2" target="1.8" />
+      <module name="spring-cloud-hystrix" target="1.8" />
       <module name="spring-cloud-provider" target="1.8" />
       <module name="spring-cloud-stream-hello" target="1.8" />
       <module name="spring-clound-config2" target="1.8" />
